@@ -3754,7 +3754,8 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png
         tvg_name: Potsdam TV
-        url: https://58de7a369a9c4.streamlock.net/potsdamtv/ngrp:stream_all/playlist.m3u8?potsdamtvendtime=1619729270&potsdamtvstarttime=1619707660&potsdamtvhash=8nxQ_5yFK1mh-IDcONN_NioyRvPsBMpj_IYay-HgQM8=      - group_title: IPTV-DE
+        url: https://58de7a369a9c4.streamlock.net/potsdamtv/ngrp:stream_all/playlist.m3u8?potsdamtvendtime=1619729270&potsdamtvstarttime=1619707660&potsdamtvhash=8nxQ_5yFK1mh-IDcONN_NioyRvPsBMpj_IYay-HgQM8=      
+      - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Regio TV Schwaben
         quality: hd
